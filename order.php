@@ -1,3 +1,3 @@
 <?php
-echo 'qqqq';
-echo 'ceshi1.18';
+//echo 'qqqq';
+echo phpinfo();
