@@ -1,5 +1,7 @@
 <?php
-//echo 'qqqq';
+
 echo phpinfo();
 
 echo 'mingzhijian';
+
+echo '112233';
