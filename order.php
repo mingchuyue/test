@@ -9,3 +9,4 @@ echo '112233';
 echo '556677';
 echo '778899';
 echo '000000';
+echo 'cccsss';
